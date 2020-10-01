@@ -65,8 +65,6 @@ fun main(){
                         println("i:$i, j:$j")
                     }
                     println("after for j")
-                    18 /서울디지털대학교
-                    println("after for j")
                 }
                 println("after for i")
             }
